@@ -51,6 +51,7 @@
 ### StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by DesmondDeon for Show button when text overflows](https://stackoverflow.com/questions/71904583/show-button-when-text-overflows/71904747#71904747)
 <!-- STACKOVERFLOW:END -->
 
 ---
