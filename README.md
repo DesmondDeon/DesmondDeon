@@ -42,6 +42,10 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Gas Prices Are So High — And What Can You Do About It](https://medium.com/the-box-straps/why-gas-prices-are-so-high-and-what-can-you-do-about-it-50964235940e?source=rss-5662e94c1ac3------2)
+- [EMAIL MARKETING 101](https://medium.com/the-box-straps/email-marketing-101-3dfd6b03795f?source=rss-5662e94c1ac3------2)
+- [The LinkedIn Algorithm Explained](https://medium.com/technical-excellence/the-linkedin-algorithm-explained-734039499b72?source=rss-5662e94c1ac3------2)
+- [About Me — Desmond &lpar;D.&rpar; Young](https://desmonddyoung.medium.com/about-me-desmond-d-young-56d5dcab2929?source=rss-5662e94c1ac3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@desmonddyoung)
